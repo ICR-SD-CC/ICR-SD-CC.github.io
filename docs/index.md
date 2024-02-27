@@ -8,7 +8,7 @@ This community is run jointly by the ICR RSE Group and the ICR Data Science Grou
 
 ## Upcoming events
 ### Friday 8th March 2024
-(Nextflow Community Training)[https://training.icr.ac.uk/coursed.php?course=1087] brings together ICR researchers to run through the nextflow and nf-core community trsaining together for support and fun. All day even with lunch provided. We look forward to seeing you there!
+[Nextflow Community Training](https://training.icr.ac.uk/coursed.php?course=1087) brings together ICR researchers to run through the nextflow and nf-core community trsaining together for support and fun. All day even with lunch provided. We look forward to seeing you there!
 
 ---  
 
