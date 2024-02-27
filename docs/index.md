@@ -14,16 +14,16 @@ A session to spread the carpentry teaching method amongst ICR would be carpentry
 [Nextflow Community Training](https://training.icr.ac.uk/coursed.php?course=1087) brings together ICR researchers to run through the nextflow and nf-core community trsaining together for support and fun. All day even with lunch provided. We look forward to seeing you there!
 
 ### Python in Sutton/Online - Monday 11th March/Friday 15th March
-A beginners course in pythyon with no experience required. This courses uses jupyter notebooks.
+[A beginners course in python](https://training.icr.ac.uk/coursed.php?course=544) with no experience required. This courses uses jupyter notebooks.
 
 ### Python in Chelsea/Online - Tuesday 12th March/Friday 15th March
-A beginners course in pythyon with no experience required. This courses uses jupyter notebooks.
+[A beginners course in python](https://training.icr.ac.uk/coursed.php?course=544) with no experience required. This courses uses jupyter notebooks.
 
 ### Python in Sutton/Online - Monday 13th May/Friday 17th May
-A beginners course in pythyon with no experience required. This courses uses jupyter notebooks.
+[A beginners course in python](https://training.icr.ac.uk/coursed.php?course=544) with no experience required. This courses uses jupyter notebooks.
 
 ### Python in Chelsea/Online - Wednesday 15th May/Friday 17th May
-A beginners course in pythyon with no experience required. This courses uses jupyter notebooks.
+[A beginners course in python](https://training.icr.ac.uk/coursed.php?course=544) with no experience required. This courses uses jupyter notebooks.
 
 
 ---  
