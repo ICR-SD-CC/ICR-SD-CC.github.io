@@ -1,4 +1,5 @@
 site_name: ICR SD&CC
 nav:
   - Home: 'index.md'
-  - About: 'about.md'
+  - Events: 'events.md'
+  - Past events: 'p-events.md'
