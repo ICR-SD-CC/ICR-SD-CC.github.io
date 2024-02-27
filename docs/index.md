@@ -8,6 +8,12 @@ This community is run jointly by the ICR RSE Group and the ICR Data Science Grou
 
 ## Upcoming events
 
+### Clinics
+
+### Community Socials
+
+### Training
+
 #### Carpentry co-instructors - Wednesday 6th March
 A session to spread the carpentry teaching method amongst ICR would be carpentry co-instructors.
 
