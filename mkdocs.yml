@@ -3,3 +3,12 @@ nav:
   - Home: 'index.md'
   - Events: 'events.md'
   - Past events: 'p-events.md'
+
+
+theme:
+  name: material  
+  logo: assets/icr_svg_logo.svg  
+  favicon: assets/icr_svg_logo.svg  
+  palette:
+    primary: pink  
+    accent: deep orange  
