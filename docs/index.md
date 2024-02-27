@@ -9,8 +9,10 @@ This community is run jointly by the ICR RSE Group and the ICR Data Science Grou
 ## Upcoming events
 
 ### Clinics
+(next data science clinic?)
 
 ### Community Socials
+(some sort of meet-the-teams activity?)
 
 ### Training
 
