@@ -2,6 +2,7 @@ site_name: ICR SD&CC
 nav:
   - Home: 'index.md'
   - About: 'about.md'
+  - RSEs: 'rse.md'
   #- Events: 'events.md'
   #- Past events: 'p-events.md'
 
