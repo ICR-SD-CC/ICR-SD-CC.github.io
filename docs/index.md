@@ -17,13 +17,13 @@ This community is run jointly by the ICR RSE Group and the ICR Data Science Grou
 ### Training
 
 #### 6 days of carpentry
-- Mon 7th October, 9am-1pm: The unix shell [ICR course](https://training.icr.ac.uk/coursed.php?course=1215), [carpentry link]()  
-- Mon 7th October, 2pm-5pm: Version control with git [ICR course](https://training.icr.ac.uk/coursed.php?course=1216), [carpentry link]()  
-- Tue 8th October, 9am-5pm: Intro to R and R Studio with genomics [ICR course](https://training.icr.ac.uk/coursed.php?course=1218), [carpentry link]()  
+- Mon 7th October, 9am-1pm: The unix shell [ICR course](https://training.icr.ac.uk/coursed.php?course=1215), [carpentry link](https://github.com/ICR-SD-CC/2024-10-07-ICR-UNIX)  
+- Mon 7th October, 2pm-5pm: Version control with git [ICR course](https://training.icr.ac.uk/coursed.php?course=1216), [carpentry link](https://github.com/ICR-SD-CC/2024-10-07-ICR-GIT)  
+- Tue 8th October, 9am-5pm: Intro to R and R Studio with genomics [ICR course](https://training.icr.ac.uk/coursed.php?course=1218), [carpentry link](https://github.com/ICR-SD-CC/2024-10-08-ICR-R)  
 - Wed 9th October, 9am-5pm: Plotting and programming with python [ICR course](https://training.icr.ac.uk/coursed.php?course=1210), [carpentry link]()  
-- Thu 10th October, 9am-5pm: Genomics Workshop [ICR course](https://training.icr.ac.uk/coursed.php?course=1219), [carpentry link]()  
-- Fri 11th October, 9am-5pm: Image Processing with Python [ICR course](https://training.icr.ac.uk/coursed.php?course=1217), [carpentry link]()  
-= Mon 14th October, 9am-1pm: Machine Learning with python [ICR course](https://training.icr.ac.uk/coursed.php?course=1215), [carpentry link]()  
+- Thu 10th October, 9am-5pm: Genomics Workshop [ICR course](https://training.icr.ac.uk/coursed.php?course=1219), [carpentry link](https://github.com/ICR-SD-CC/2024-10-10-ICR-GENOMICS)  
+- Fri 11th October, 9am-5pm: Image Processing with Python [ICR course](https://training.icr.ac.uk/coursed.php?course=1217), [carpentry link](https://github.com/ICR-SD-CC/2024-10-11-ICR-IMAGE)  
+- Mon 14th October, 9am-1pm: Machine Learning with python [ICR course](https://training.icr.ac.uk/coursed.php?course=1215), [carpentry link](https://github.com/ICR-SD-CC/2024-10-14-ICR-ML)  
 
 #### Carpentry co-instructors - Wednesday 6th March
 A session to spread the carpentry teaching method amongst ICR would be carpentry co-instructors.
